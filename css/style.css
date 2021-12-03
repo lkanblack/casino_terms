@@ -1,0 +1,48 @@
+body {
+  position: relative;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(36, 36, 45, 0.85)), to(#24242D)), url(../img/bg.png);
+  background: linear-gradient(180deg, rgba(36, 36, 45, 0.85) 0%, #24242D 100%), url(../img/bg.png);
+  font-family: 'Inter', sans-serif;
+}
+
+.terms {
+  margin-top: 51px;
+  color: #fff;
+}
+
+.terms h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.terms h4 {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.terms a {
+  color: #fff;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.terms a:hover {
+  color: #fafafa;
+}
+
+.terms p {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 30px;
+}
+
+.terms ol li, .terms ul li {
+  margin-bottom: 30px;
+}
+
+.cookies {
+  padding-bottom: 30px;
+}
+/*# sourceMappingURL=style.css.map */
